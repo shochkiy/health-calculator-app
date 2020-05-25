@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587891047996",
+    "firebase_url": "https://healthcalc-3b07b.firebaseio.com",
+    "project_id": "healthcalc-3b07b",
+    "storage_bucket": "healthcalc-3b07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587891047996:android:c11322f47773bb7c8ccd39",
+        "android_client_info": {
+          "package_name": "com.example.healthcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587891047996-4su78a2vajpi8jlv2o2f0qfk8psr011u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcalc",
+            "certificate_hash": "a74c408951192500ed184878cff25f83dad6ac22"
+          }
+        },
+        {
+          "client_id": "587891047996-4ggv8cnkue7gpj7soi27adch5h31j04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkp2nNRtz4R-XvbVpTke5LKtYfBJLxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587891047996-4ggv8cnkue7gpj7soi27adch5h31j04v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

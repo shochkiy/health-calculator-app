@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HealthCalc</string>
+    <string name="app_in_name">Health Calculator</string>
+    <string name="app_name_after">Calculate your health!</string>
+    <string name="text_btn_signin">Войти</string>
+    <string name="text_btn_register">Зарегистрироваться</string>
+    <string name="text_bottom">Войдите в учетную запись</string>
+
+    <string name="email_field_hint">E-mail</string>
+    <string name="password_field_hint">Пароль</string>
+    <string name="name_field_hint">Имя</string>
+    <string name="tel_field_hint">Телефон</string>
+    <string name="field_for_weight">Введите ваш вес</string>
+    <string name="field_for_height">Введите ваш рост</string>
+    <string name="field_for_age">Введите ваш возраст</string>
+    <string name="field_for_sex">Выберите пол</string>
+    <string name="btn_next_map">Продолжить</string>
+    <string name="btnUserInfo">Информация о пользователе</string>
+    <string name="btnUserCcal">Дневная норма килокалорий</string>
+    <string name="btnСalculateCcal">Рассчитать дневную норму</string>
+    <string name="btnWiki">Справочная информация</string>
+
+    user_info window
+
+    <string name="userName">Имя</string>
+    <string name="userEmail">E-mail</string>
+    <string name="userPhone">Телефон</string>
+    <string name="userSex">Пол</string>
+    <string name="userAge">Возраст</string>
+    <string name="userHeight">Рост</string>
+    <string name="userWeight">Вес</string>
+    <string name="userIbw">Индекс массы тела</string>
+
+
+    calculate ccal window
+
+    <string-array name="phys_activity">
+        <item>Физическая нагрузка отсутствует или минимальная</item>
+        <item>Тренировки средней тяжести 3 раза в неделю</item>
+        <item>Тренировки средней тяжести 5 раз в неделю</item>
+        <item>Интенсивные тренировки 5 раз в неделю</item>
+        <item>Тренировки каждый день</item>
+        <item>Интенсивные тренировки каждый день или по 2 раза в день</item>
+        <item>Ежедневаня физическая нагрузка + физическая работа</item>
+    </string-array>
+
+    user ccal window
+
+    <string-array name="chooseWants">
+        <item>Набрать вес</item>
+        <item>Сохранить вес</item>
+        <item>Плавная потеря веса</item>
+        <item>Более быстрая потеря веса</item>
+        <item>Интенсиваня потеря веса</item>
+    </string-array>
+
+    <string name="dci">Ваша ежедневная норма DCI</string>
+</resources>
